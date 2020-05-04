@@ -11,4 +11,4 @@ This app allows user to continue add funds, subtract funds and track budget when
 * When back online the deposits and withdrawals update the database
 
 ### Requirements ###
-**Web manifest file Service worker js NPM Mongoose NPm Express
+__Web manifest file Service worker js NPM Mongoose NPm Express__
