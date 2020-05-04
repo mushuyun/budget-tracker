@@ -15,4 +15,6 @@ __Web manifest file Service worker js NPM Mongoose NPm Express__
 
 **Screenshots to give you better idea how this app works.**
 ![bugetchart](public/images/ssh1.jpg)
+![offlineCache](public/images/offlineCache.jpg)
+![updateonReload](public/images/updateonReload.jpg)
 
