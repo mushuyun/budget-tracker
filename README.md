@@ -14,5 +14,5 @@ This app allows user to continue add funds, subtract funds and track budget when
 __Web manifest file Service worker js NPM Mongoose NPm Express__
 
 **Screenshots to give you better idea how this app works.**
-![bugetchart](public/images/ssh1.png)
+![bugetchart](public/images/ssh1.jpg)
 
