@@ -1,5 +1,7 @@
 # Budget-tracker #
 
+__The deplyed link: https://budget-tacker.herokuapp.com/__
+
 ### The feature for this app is: ###
 
 This app allows user to continue add funds, subtract funds and track budget when offline. The app will automatically update all the budget done when offline and integrate with the whole system when reload. 
