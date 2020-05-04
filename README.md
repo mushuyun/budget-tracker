@@ -1,6 +1,6 @@
 # Budget-tracker #
 
-__The deplyed link: https://budget-tacker.herokuapp.com/__
+The deployed link: __https://budget-tacker.herokuapp.com/__
 
 ### The feature for this app is: ###
 
