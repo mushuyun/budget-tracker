@@ -6,6 +6,9 @@ This app allows user to continue add funds, subtract funds and track budget when
 
 #### User should be able to: ####
 
->> App can be taken offline
->> Deposits and withdrawals can be made offline
->> When back online the deposits and withdrawals update the database
+* App can be taken offline
+* Deposits and withdrawals can be made offline
+* When back online the deposits and withdrawals update the database
+
+### Requirements ###
+**Web manifest file Service worker js NPM Mongoose NPm Express
